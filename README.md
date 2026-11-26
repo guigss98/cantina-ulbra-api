@@ -3,8 +3,7 @@ Cantina ULBRA API
 
 API RESTful criada com Node.js, Express, Knex.js e SQLite3 para gerenciar produtos, estoque, pedidos e relatórios da cantina.
 
-Autor:
-Nome: Guilherme da Silva dos Santos
+Autor: Guilherme da Silva dos Santos
 Curso: Engenharia de Software — ULBRA
 
 Tecnologias:
